@@ -117,7 +117,9 @@ Topics include:
 
 ---
 
-[![Ronnie's badges](https://credly-readme-stats.onrender.com/api/overview?username=ronnie-alfaro&hide_border=true&custom_title=Ronnie%27s+badges)](https://www.credly.com/users/ronnie-alfaro/badges)
+## 🎖️ Badges
+
+[![Ronnie's badges](https://credly-readme-stats.onrender.com/api/overview?username=ronnie-alfaro&hide_border=true&hide_title=true&custom_title=Ronnie%27s+badges)](https://www.credly.com/users/ronnie-alfaro/badges)
 
 ## 🤝 Let's Connect
 
