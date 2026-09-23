@@ -118,37 +118,32 @@ Topics include:
 ---
 ## 🎓 Certifications & Continuous Learning
 
-I maintain an active learning path focused on **AI Engineering, Agentic Systems,
-RAG, MLOps, and Generative AI**, combining formal coursework with hands-on
-implementation and experimentation.
+My continuous learning focuses on **AI Engineering, Agentic Systems, RAG, Vector Databases, Generative AI, Multimodal AI, and MLOps**, complementing hands-on work building and evaluating AI systems.
 
 ### 🤖 Agentic AI & AI Agents
 
-- [Building AI Agents and Agentic Workflows Specialization](URL_SPECIALIZATION)
-- [Build AI Agents using MCP](URL_MCP)
-- [Fundamentals of Building AI Agents](URL_FUNDAMENTALS)
-- [Agentic AI with LangChain and LangGraph](URL_LANGGRAPH)
-- [Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI](URL_MULTI_AGENT)
+- [Building AI Agents and Agentic Workflows Specialization](https://www.coursera.org/account/accomplishments/specialization/R7J0JIV6MARA)
+- [Build AI Agents using MCP](https://www.coursera.org/account/accomplishments/records/7SDTNCVWH6AD)
+- [Fundamentals of Building AI Agents](https://www.coursera.org/account/accomplishments/records/2VQK2UMXYLHO)
+- [Agentic AI with LangChain and LangGraph](https://www.coursera.org/account/accomplishments/records/S3L8BYO27RZ8)
+- [Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI](https://www.coursera.org/account/accomplishments/records/4P1MICV48WVB)
 
 ### 🔎 RAG & Vector Databases
 
-- [Advanced RAG with Vector Databases and Retrievers](URL_ADVANCED_RAG)
-- [Vector Databases for RAG: An Introduction](URL_VECTOR_DB)
+- [Advanced RAG with Vector Databases and Retrievers](https://www.coursera.org/account/accomplishments/records/Y4GPQ13HC2DV)
+- [Vector Databases for RAG: An Introduction](https://www.coursera.org/account/accomplishments/records/C5NDWTH7VC4C)
+- [Build RAG Applications: Get Started](https://www.coursera.org/account/accomplishments/records/YNOAF5ZSFXK2)
 
-### 🧠 Generative AI
+### 🧠 Generative & Multimodal AI
 
-- [Build Multimodal Generative AI Applications](URL_MULTIMODAL)
-- [Develop Generative AI Applications: Get Started](URL_GENAI_APPS)
-- [Generative AI: Introduction and Applications](URL_GENAI_INTRO)
-- [Generative AI: Prompt Engineering Basics](URL_PROMPT_ENGINEERING)
+- [Build Multimodal Generative AI Applications](https://www.coursera.org/account/accomplishments/records/KZBWL3FP2HKN)
+- [Develop Generative AI Applications: Get Started](https://www.coursera.org/account/accomplishments/records/WNQF5AN2B445)
+- [Generative AI: Introduction and Applications](https://www.coursera.org/account/accomplishments/records/3GY8PHSVH4RM)
+- [Start Writing Prompts like a Pro](https://www.coursera.org/account/accomplishments/records/HGNDF7UPD4A7)
 
 ### ⚙️ MLOps & AI Engineering
 
-- [Python Essentials for MLOps](URL_MLOPS)
-
-### 📚 Additional Learning
-
-- [Start Writing Prompts like a Pro](URL_PROMPTS)
+- [Python Essentials for MLOps](https://www.coursera.org/account/accomplishments/records/U95H5RHJ4D3R)
 ---
 ## 🎖️ Badges
 
