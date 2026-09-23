@@ -1,50 +1,129 @@
-# Hi, I'm Ronnie Alfaro 👋
+# Ronnie Alfaro
 
-**Engineering Leader • AI Platforms • Developer Infrastructure • Agentic Systems**
+**Engineering Leader | AI Systems | Applied Machine Learning | Developer Infrastructure**
 
-I enjoy building AI systems that solve real problems. My work spans developer platforms, autonomous agents, retrieval systems, local LLM infrastructure, workflow automation, and production-ready AI applications.
+I work at the intersection of engineering leadership, software systems, and applied artificial intelligence.
 
-Over the past year I've focused almost exclusively on designing, building, and experimenting with modern AI systems, from retrieval pipelines to model orchestration and local inference.
+My current technical work focuses on the design and implementation of AI systems beyond isolated model calls: agentic architectures, retrieval-augmented generation, semantic retrieval, Model Context Protocol integrations, evaluation, local inference, document-processing pipelines, and the infrastructure required to operate these systems reliably.
+
+My broader engineering background includes distributed systems, platform engineering, cloud infrastructure, automation, developer tooling, technical operations, and engineering leadership. I approach AI as a systems engineering problem: model capability is one component within a larger architecture that must also address retrieval quality, orchestration, observability, evaluation, reliability, deployment, cost, and operational ownership.
 
 ---
 
-## 🚀 What I'm Working On
+## Technical Focus
 
-- Building production AI applications
-- Agentic workflows
-- Model Context Protocol (MCP)
+### AI Systems Engineering
+
+- Agentic architectures and multi-agent systems
 - Retrieval-Augmented Generation (RAG)
-- Semantic Search
-- Local LLM infrastructure
+- Semantic search and vector retrieval
+- Model Context Protocol (MCP)
+- LLM orchestration and tool integration
+- LLM evaluation and retrieval evaluation
+- Local model inference and experimentation
+- Fine-tuning and model adaptation
+- Intelligent document processing
 - AI-assisted developer tooling
-- Document processing pipelines
 - Workflow automation
-- PyTorch and modern deep learning
+
+### Machine Learning
+
+- PyTorch
+- Deep learning
+- Embeddings and representation learning
+- Transformer-based systems
+- Model evaluation
+- Experimental model development
+
+### Software and Infrastructure
+
+- Python
+- TypeScript
+- FastAPI
+- Node.js
+- REST APIs
+- PostgreSQL
+- Docker
+- CI/CD
+- Distributed systems
+- Platform engineering
+- System architecture
+- Developer infrastructure and experience
 
 ---
 
-## 🧠 AI Experience
+## Selected Engineering Work
 
-Recent projects include:
+My recent work and technical experimentation concentrate on the architecture of production-oriented AI systems.
 
-- 🤖 Multi-agent AI systems
-- 📚 RAG architectures with semantic retrieval
-- 🔎 Vector search pipelines
-- 🧩 MCP servers and integrations
-- 📄 Intelligent document processing
-- ⚡ Local inference using Ollama
-- 🔄 Workflow orchestration
-- 🛠 Developer productivity tools
-- 📈 AI-powered analytics
-- 🧪 Prompt engineering and evaluation
-- 🧠 Fine-tuning and model experimentation
+**Agentic Systems**  
+Design and implementation of autonomous and multi-agent workflows, including tool use, orchestration, state management, MCP servers, and integrations across heterogeneous systems.
+
+**Retrieval and Knowledge Systems**  
+RAG architectures combining document ingestion, normalization, chunking, embeddings, vector databases, semantic retrieval, reranking, and evaluation. Current work includes local knowledge systems designed to process and retrieve information from large document collections.
+
+**LLM Evaluation**  
+Evaluation methodologies for AI applications with emphasis on retrieval quality, response relevance, grounding, consistency, and system-level behavior rather than model output in isolation.
+
+**Local AI Infrastructure**  
+Local inference environments and model experimentation using open models, Ollama, vector databases, and supporting infrastructure. This work includes evaluating the trade-offs between local and hosted inference, retrieval, fine-tuning, and hybrid architectures.
+
+**Model Experimentation**  
+Hands-on work with PyTorch, deep learning, fine-tuning, embeddings, and model behavior. I use implementation-level experimentation to maintain a working understanding of the mechanisms underlying higher-level AI frameworks.
+
+**Developer Systems**  
+Automation, developer productivity tooling, APIs, platform components, and infrastructure intended to reduce operational friction and improve engineering workflows.
 
 ---
-## 🎓 Certifications & Continuous Learning
 
-My continuous learning focuses on **AI Engineering, Agentic Systems, RAG, Vector Databases, Generative AI, Multimodal AI, and MLOps**, complementing hands-on work building and evaluating AI systems.
+## Engineering Perspective
 
-### 🤖 Agentic AI & AI Agents
+I have worked across engineering leadership, infrastructure, software systems, technical operations, and application development.
+
+That background informs how I approach AI engineering. A useful AI system is not defined solely by model selection or prompt quality. It is defined by the behavior of the complete system under real constraints.
+
+I therefore tend to evaluate AI architectures across several dimensions:
+
+- correctness and measurable quality;
+- retrieval and context integrity;
+- system reliability and failure modes;
+- observability and evaluation;
+- latency and computational cost;
+- maintainability and architectural complexity;
+- security and data boundaries;
+- deployment and operational ownership;
+- human oversight and appropriate automation.
+
+I remain hands-on technically while approaching engineering decisions from a systems and organizational perspective. The objective is not simply to demonstrate that an AI capability can work, but to determine whether it can be engineered, evaluated, operated, and improved responsibly over time.
+
+---
+
+## Research and Technical Interests
+
+My current areas of study and experimentation include:
+
+- Agentic AI
+- Foundation models
+- Retrieval-Augmented Generation
+- Vector databases and semantic retrieval
+- Model Context Protocol
+- LLM evaluation
+- PyTorch
+- Representation learning
+- Cognitive architectures
+- Knowledge representation
+- Ontology
+- Local and hybrid AI infrastructure
+
+I am particularly interested in the boundary between **language models, structured knowledge, retrieval systems, and autonomous software agents**, and in the engineering methods required to make these systems reliable enough for practical use.
+
+---
+
+## Certifications and Continuous Study
+
+My formal coursework complements ongoing implementation and independent technical study.
+
+### Agentic AI and AI Agents
 
 - [Building AI Agents and Agentic Workflows Specialization](https://www.coursera.org/account/accomplishments/specialization/R7J0JIV6MARA)
 - [Build AI Agents using MCP](https://www.coursera.org/account/accomplishments/records/7SDTNCVWH6AD)
@@ -52,106 +131,49 @@ My continuous learning focuses on **AI Engineering, Agentic Systems, RAG, Vector
 - [Agentic AI with LangChain and LangGraph](https://www.coursera.org/account/accomplishments/records/S3L8BYO27RZ8)
 - [Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI](https://www.coursera.org/account/accomplishments/records/4P1MICV48WVB)
 
-### 🔎 RAG & Vector Databases
+### RAG and Vector Databases
 
 - [Advanced RAG with Vector Databases and Retrievers](https://www.coursera.org/account/accomplishments/records/Y4GPQ13HC2DV)
 - [Vector Databases for RAG: An Introduction](https://www.coursera.org/account/accomplishments/records/C5NDWTH7VC4C)
 - [Build RAG Applications: Get Started](https://www.coursera.org/account/accomplishments/records/YNOAF5ZSFXK2)
 
-### 🧠 Generative & Multimodal AI
+### Generative and Multimodal AI
 
 - [Build Multimodal Generative AI Applications](https://www.coursera.org/account/accomplishments/records/KZBWL3FP2HKN)
 - [Develop Generative AI Applications: Get Started](https://www.coursera.org/account/accomplishments/records/WNQF5AN2B445)
 - [Generative AI: Introduction and Applications](https://www.coursera.org/account/accomplishments/records/3GY8PHSVH4RM)
 - [Start Writing Prompts like a Pro](https://www.coursera.org/account/accomplishments/records/HGNDF7UPD4A7)
 
-### ⚙️ MLOps & AI Engineering
+### MLOps and AI Engineering
 
 - [Python Essentials for MLOps](https://www.coursera.org/account/accomplishments/records/U95H5RHJ4D3R)
----
-## 💻 Technologies
-
-### AI
-
-- OpenAI
-- Anthropic
-- Ollama
-- LangChain
-- LangGraph
-- MCP
-- PyTorch
-- Embeddings
-- Vector Databases
-
-### Backend
-
-- Python
-- TypeScript
-- FastAPI
-- Node.js
-- REST APIs
-- Docker
-- PostgreSQL
-
-### Engineering
-
-- Distributed Systems
-- Platform Engineering
-- CI/CD
-- Automation
-- System Architecture
-- Developer Experience
 
 ---
 
-## 🌐 Personal Website
+## Technical Writing
 
-I occasionally write about AI engineering, software architecture, distributed systems, and ongoing technical experiments.
+I write about AI engineering, software architecture, distributed systems, infrastructure, and technical experiments.
 
-➡️ **https://ronniealfaro.com**
+**[ronniealfaro.com](https://ronniealfaro.com)**
 
----
-
-## 🏛️ Mitomaquia
-
-Outside technology I run **Mitomaquia**, a long-term project dedicated to comparative mythology.
-
-I write and speak about mythology from an academic and anthropological perspective, exploring how cultures explain the world through myths, symbols, and cosmologies.
-
-Topics include:
-
-- Greek Mythology
-- Japanese Mythology
-- Norse Mythology
-- Comparative Mythology
-- Ancient Religions
-- Folklore
-- Mythological Symbolism
-
-➡️ **https://mitomaquia.com**
+The emphasis is on implementation, architecture, engineering trade-offs, and understanding the mechanisms behind contemporary AI systems rather than treating frameworks as abstractions to be accepted without examination.
 
 ---
 
-## 📖 Current Interests
+## Mitomaquia
 
-- Agentic AI
-- Foundation Models
-- PyTorch
-- Representation Learning
-- Cognitive Architectures
-- Ontology
-- Knowledge Representation
-- Comparative Mythology
+I also maintain **Mitomaquia**, a long-term independent project in comparative mythology.
+
+The project examines mythology, religion, folklore, symbolism, and cosmology across cultures, with particular interest in comparative interpretation and the historical context in which mythological systems develop.
+
+Areas of study include Greek, Japanese, and Norse mythology, ancient religions, folklore, and mythological symbolism.
+
+**[mitomaquia.com](https://mitomaquia.com)**
 
 ---
-## 🎖️ Badges
 
-[![Ronnie's badges](https://credly-readme-stats.onrender.com/api/overview?username=ralfaro&hide_border=true&hide_title=true&custom_title=Ronnie%27s+badges)](https://www.credly.com/users/ronnie-alfaro/badges)
+## Contact
 
-## 🤝 Let's Connect
-
-🌍 Website: https://ronniealfaro.com
-
-🏛️ Mythology: https://mitomaquia.com
-
-💼 LinkedIn: https://linkedin.com/in/ronniealfaro
+- **Website:** [ronniealfaro.com](https://ronniealfaro.com)
+- **LinkedIn:** [linkedin.com/in/ronniealfaro](https://linkedin.com/in/ronniealfaro)
+- **Comparative Mythology:** [mitomaquia.com](https://mitomaquia.com)
