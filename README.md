@@ -116,7 +116,40 @@ Topics include:
 - Comparative Mythology
 
 ---
+## 🎓 Certifications & Continuous Learning
 
+I maintain an active learning path focused on **AI Engineering, Agentic Systems,
+RAG, MLOps, and Generative AI**, combining formal coursework with hands-on
+implementation and experimentation.
+
+### 🤖 Agentic AI & AI Agents
+
+- [Building AI Agents and Agentic Workflows Specialization](URL_SPECIALIZATION)
+- [Build AI Agents using MCP](URL_MCP)
+- [Fundamentals of Building AI Agents](URL_FUNDAMENTALS)
+- [Agentic AI with LangChain and LangGraph](URL_LANGGRAPH)
+- [Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI](URL_MULTI_AGENT)
+
+### 🔎 RAG & Vector Databases
+
+- [Advanced RAG with Vector Databases and Retrievers](URL_ADVANCED_RAG)
+- [Vector Databases for RAG: An Introduction](URL_VECTOR_DB)
+
+### 🧠 Generative AI
+
+- [Build Multimodal Generative AI Applications](URL_MULTIMODAL)
+- [Develop Generative AI Applications: Get Started](URL_GENAI_APPS)
+- [Generative AI: Introduction and Applications](URL_GENAI_INTRO)
+- [Generative AI: Prompt Engineering Basics](URL_PROMPT_ENGINEERING)
+
+### ⚙️ MLOps & AI Engineering
+
+- [Python Essentials for MLOps](URL_MLOPS)
+
+### 📚 Additional Learning
+
+- [Start Writing Prompts like a Pro](URL_PROMPTS)
+---
 ## 🎖️ Badges
 
 [![Ronnie's badges](https://credly-readme-stats.onrender.com/api/overview?username=ralfaro&hide_border=true&hide_title=true&custom_title=Ronnie%27s+badges)](https://www.credly.com/users/ronnie-alfaro/badges)
